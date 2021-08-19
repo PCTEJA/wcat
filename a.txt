@@ -1,0 +1,5 @@
+Iam From Folder "A.Text"
+A
+B
+C 
+D
